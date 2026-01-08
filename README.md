@@ -1,4 +1,4 @@
-# vball_motion_tracking
+# Volleyball Motion Tracking and Feature Extraction
 This repository contains a project designed to use motion tracking for volleyball matches and predict which individual is set. 
 The dataset for this project can be found here: https://github.com/shukkkur/VolleyVision/tree/main?tab=readme-ov-file.
 
